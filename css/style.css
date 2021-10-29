@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(89, 85, 73);
+}
+
+
+.fact{
+    color: rgb(150, 163, 182);
+}
+.mood{
+    color: rgb(150, 163, 182);
+}
+.movies{
+    color: rgb(150, 163, 182);
+}
+.edu{
+    color:rgb(150, 163, 182);
+}
+.header{
+    color: rgb(150, 163, 182);
+}
+ol{
+    color: white;
+}
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
